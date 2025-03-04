@@ -7,31 +7,37 @@
 &nbsp;
 
 *Fido Phone Plans Page (Scraped Data)*  
+
 ![Fido Phone Plans Page](Frontend/public/assets/images/image-2.png)
 
 &nbsp;
 
-*Koodo Phone Plans Page (Scraped Data)*  
+*Koodo Phone Plans Page (Scraped Data)* 
+
 ![Koodo Phone Plans Page](Frontend/public/assets/images/image-3.png)
 
 &nbsp;
 
 *Mobile Prices Page (Scraped Data)*  
+
 ![Mobile Prices Page](Frontend/public/assets/images/image-4.png)
 
 &nbsp;
 
 *Network Coverage Map (Scraped Data)*  
+
 ![Network Coverage Map](Frontend/public/assets/images/image-5.png)
 
 &nbsp;
 
 *Frequency Count*  
+
 ![Frequency Count](Frontend/public/assets/images/image-6.png)
 
 &nbsp;
 
 *Page Ranking*  
+
 ![Page Ranking](Frontend/public/assets/images/image-8.png)
 
 &nbsp;
