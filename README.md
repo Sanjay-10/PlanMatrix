@@ -1,28 +1,28 @@
 # Images
 
-![Homepage](Frontend/public/assets/images/image-1.png)
 *Homepage*
+![Homepage](Frontend/public/assets/images/image-1.png)
 
-![Fido Phone Plans Page](Frontend/public/assets/images/image-2.png)
 *Fido Phone Plans Page (Scraped Data)*
+![Fido Phone Plans Page](Frontend/public/assets/images/image-2.png)
 
-![Koodo Phone Plans Page](Frontend/public/assets/images/image-3.png)
 *Koodo Phone Plans Page (Scraped Data)*
+![Koodo Phone Plans Page](Frontend/public/assets/images/image-3.png)
 
-![Mobile Prices Page](Frontend/public/assets/images/image-4.png)
 *Mobile Prices Page (Scraped Data)*
+![Mobile Prices Page](Frontend/public/assets/images/image-4.png)
 
-![Network Coverage Map](Frontend/public/assets/images/image-5.png)
 *Network Coverage Map (Scraped Data)*
+![Network Coverage Map](Frontend/public/assets/images/image-5.png)
 
-![Frequency Count](Frontend/public/assets/images/image-6.png)
 *Frequency Count*
+![Frequency Count](Frontend/public/assets/images/image-6.png)
 
-![Page Ranking](Frontend/public/assets/images/image-8.png)
 *Page Ranking*
+![Page Ranking](Frontend/public/assets/images/image-8.png)
 
 ![Additional Image](Frontend/public/assets/images/image-7.png)
-*Additional Image*
+
 
 
 # Getting Started with Create React App
