@@ -1,6 +1,7 @@
 # Images
 
 *Homepage*  
+
 ![Homepage](Frontend/public/assets/images/image-1.png)
 
 &nbsp;
