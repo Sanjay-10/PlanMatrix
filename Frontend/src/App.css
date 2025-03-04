@@ -1,0 +1,5 @@
+.glass-morphism {
+  @apply bg-white bg-opacity-10 rounded-lg border-white border-2 border-opacity-40;
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px);
+}
