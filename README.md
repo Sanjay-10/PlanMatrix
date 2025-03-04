@@ -1,28 +1,28 @@
 # Images
 
-![Homepage](Frontend\public\assets\images\image-1.png)
+![Homepage](Frontend/public/assets/images/image-1.png){ width=600 height=400 }
 **Homepage**
 
-![Fido Phone Plans Page](Frontend\public\assets\images\image-2.png)
+![Fido Phone Plans Page](Frontend/public/assets/images/image-2.png){ width=600 height=400 }
 **Fido Phone Plans Page** (Scraped Data)
 
-![Koodo Phone Plans Page](Frontend\public\assets\images\image-3.png)
+![Koodo Phone Plans Page](Frontend/public/assets/images/image-3.png){ width=600 height=400 }
 **Koodo Phone Plans Page** (Scraped Data)
 
-![Mobile Prices Page](Frontend\public\assets\images\image-4.png)
+![Mobile Prices Page](Frontend/public/assets/images/image-4.png){ width=600 height=400 }
 **Mobile Prices Page** (Scraped Data)
 
-![Network Coverage Map](Frontend\public\assets\images\image-5.png)
+![Network Coverage Map](Frontend/public/assets/images/image-5.png){ width=600 height=400 }
 **Network Coverage Map** (Scraped Data)
 
-![Frequency Count](Frontend\public\assets\images\image-6.png)
+![Frequency Count](Frontend/public/assets/images/image-6.png){ width=600 height=400 }
 **Frequency Count**
 
-![Page Ranking](Frontend\public\assets\images\image-8.png)
+![Page Ranking](Frontend/public/assets/images/image-8.png){ width=600 height=400 }
 **Page Ranking**
 
-![alt text](Frontend\public\assets\images\image-7.png)
-**Alt Text**
+![alt text](Frontend/public/assets/images/image-7.png){ width=600 height=400 }
+
 
 # Getting Started with Create React App
 
